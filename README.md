@@ -70,7 +70,7 @@ password : 123456789
 
 Work Flow Video:
 
-[![Project Demo Video](https://github.com/Indhuupriya/cartrabbit.github.io/Laravel.mp4)
+[![Project Demo Video](Laravel.mp4_thumbnail_url)](Laravel.mp4_video_url)
 
 
 

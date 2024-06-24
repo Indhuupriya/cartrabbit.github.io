@@ -70,13 +70,5 @@ password : 123456789
 
 
 
-## Project Demo Video
-
-[![Project Demo Video]
-)](https://youtu.be/e0d7Ip-vxbo)
-
-Click the image above to watch the demo video.
-
-
 
 

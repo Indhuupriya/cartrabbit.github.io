@@ -68,9 +68,7 @@ password : 123456789
 
 ![image](https://github.com/Indhuupriya/cartrabbit.github.io/assets/167615236/59a56ab8-7c17-4dc3-aa1d-f19483015f33)
 
-Work Flow Video:
 
-[![Project Demo Video](https://github.com/Indhuupriya/cartrabbit.github.io/assets/167615236/59a56ab8-7c17-4dc3-aa1d-f19483015f33)](Laravel.mp4)
 
 
 

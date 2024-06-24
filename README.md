@@ -72,7 +72,8 @@ password : 123456789
 
 ## Project Demo Video
 
-[![Project Demo Video](https://img.youtube.com/vi/e0d7Ip-vxbo/0.jpg)](https://youtu.be/e0d7Ip-vxbo)
+[![Project Demo Video](![image](https://github.com/Indhuupriya/cartrabbit.github.io/assets/167615236/06a73fdb-257f-4425-8ef8-080d30773c67)
+)](https://youtu.be/e0d7Ip-vxbo)
 
 Click the image above to watch the demo video.
 

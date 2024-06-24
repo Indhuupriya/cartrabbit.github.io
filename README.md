@@ -33,6 +33,7 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 ## Employee Dashboard 
 
 Email : employee@gmail.com
+
 Password : 123456789
 
 1)Employee Dashboard
@@ -46,6 +47,33 @@ Password : 123456789
 3)Resubmit Task
 
 ![image](https://github.com/Indhuupriya/cartrabbit.github.io/assets/167615236/41b02ba1-af1d-4ff7-bb16-b96d5ec37489)
+
+Reporting Manager Dashboard:
+
+Email : manager@gmail.com
+Password : 123456789
+
+1)Dashboard:
+
+![image](https://github.com/Indhuupriya/cartrabbit.github.io/assets/167615236/99ab90ba-8921-4914-bf78-e9413623aa63)
+
+2)Review page:
+
+![image](https://github.com/Indhuupriya/cartrabbit.github.io/assets/167615236/09e44d68-5b71-4dcd-aaa9-1fddb7bd752e)
+
+HR :
+
+Email :hr@gmail.com
+password : 123456789
+
+![image](https://github.com/Indhuupriya/cartrabbit.github.io/assets/167615236/59a56ab8-7c17-4dc3-aa1d-f19483015f33)
+
+Work Flow Video:
+
+
+
+
+
 
 
 
